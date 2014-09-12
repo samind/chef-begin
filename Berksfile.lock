@@ -1,0 +1,12 @@
+DEPENDENCIES
+  apache
+    path: site-cookbooks/apache
+  dstat
+    path: site-cookbooks/dstat
+  mysql
+    path: site-cookbooks/mysql
+
+GRAPH
+  apache (0.1.0)
+  dstat (0.1.0)
+  mysql (0.1.0)
